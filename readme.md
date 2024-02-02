@@ -2,6 +2,8 @@
 
 English speech to any language text in (sort of) real-time.
 
+Little poem about it [here](https://simutisernestas.github.io/2024/02/01/parents.html).
+
 ## Usage
 
 Install the `whisper.cpp` library:
